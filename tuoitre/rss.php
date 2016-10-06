@@ -1,0 +1,1 @@
+<?php	header("Content-Type: application/xml; charset=utf-8");	include 'config.php';	include("class/RSS.class.php");	$rss = new RSS();	echo $rss->GetFeed();?>

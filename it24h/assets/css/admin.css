@@ -1,0 +1,31 @@
+/****   ADMIN *******/
+#loginwrapper{
+	min-height: 450px;
+}
+#welcome{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+#content{
+	margin-top: 80px;
+	margin-bottom: 60px;
+}
+.question {
+    padding: 10px 20px 20px;
+    border-bottom: 1px solid #d7d7d7;
+}
+.answer{
+  line-height: 29px;
+  margin-left: 15px;
+}
+.answrapper:hover{
+  background-color: #ccc;
+}
+.right_ans{
+   background-color: #a9dba9;
+}
+.false_ans{
+  background-color: #CC532A;
+}
+
+

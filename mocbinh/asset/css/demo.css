@@ -1,0 +1,14 @@
+/* Reset Styles
+***********************/
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
+.flexslider ol, ul {list-style: none;}
+.flexslider blockquote, q {quotes: none;}
+.flexslider blockquote:before, blockquote:after,q:before, q:after {content: ''; content: none;}
+.flexslider table {border-collapse: collapse; border-spacing: 0;}
+.flexslider strong {font-weight: bold;}
+.flexslider em {font-style: italic;}
+.flexslider h2 {padding: 20px 0 30px; font-size: 18px; line-height: 22px; font-style: italic;}
+.flexslider h2 a {text-decoration: none; color: #427f9e;}
+.flexslider h2 a:hover {border-bottom: 1px dotted #427f9e;}

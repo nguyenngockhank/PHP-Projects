@@ -1,0 +1,17 @@
+RewriteEngine on
+RewriteRule trangchu.html$ index.php
+RewriteRule ^tim-kiem.html$ index.php?act=search [QSA]
+RewriteRule ^tim-kiem-nang-cao.html$ index.php?act=search2 [QSA]
+RewriteRule admin/$ admin/index.php
+RewriteRule ^([a-zA-Z0-9_-]+).html$ index.php?act=viewcat&id=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/$ index.php?act=viewcat&id=$1
+RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?act=viewcat&id=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/trang-([0-9]).html$ index.php?act=viewcat&id=$1&p=$2
+RewriteRule ^chi-tiet-tin/([a-zA-Z0-9_-]+).html$ index.php?act=viewnews&id=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+).html$ index.php?act=viewsubcat&id=$2
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ index.php?act=viewsubcat&id=$2
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ index.php?act=viewsubcat&id=$2
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/trang-([0-9]).html$ index.php?act=viewsubcat&id=$2&p=$3
+
+
+

@@ -1,0 +1,1 @@
+<?phpinclude 'config.php';include 'includes/connection.php';include 'class/news.class.php';include 'class/category.class.php';$cat = new Category($conn);$news = new News($conn);$act = isset($_GET['act']) ? $_GET['act'] : '';    

@@ -1,0 +1,37 @@
+h1.text-color,h2.text-color,h3.text-color,h4.text-color {
+    color: #F0602B;
+}
+.rated:hover{
+    cursor:pointer;
+}
+.rating > span:hover, 
+.rating > span:hover ~ span {
+    color: transparent;
+    cursor:pointer;
+}
+.rating, .rated {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+.rating > span, .rated > span {
+    display: inline-block;
+    position: relative;
+    width: 1.1em;
+}
+.rated > .score:before,
+.rated > .score ~ span:before,
+.rating > span:hover:before,
+.rating > span:hover ~ span:before,
+.rating > .scored  ~ span:before,
+.rating > .scored  ~ span:before
+{
+    content: "\2605";
+    position: absolute;
+    left: 0;
+    color: gold;
+
+}
+
+#review-problem{
+    display: none;
+}
