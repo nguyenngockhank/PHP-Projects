@@ -33,7 +33,7 @@ Các bạn có thể clone về coi thử
 - Một project dang dở, đang làm giữa chừng thì đi theo tiếng gọi của Tổ quốc (đi lính)
 - Có nhiều lưu luyến, cả dev lẫn khách hàng =)) cũng may là vẫn có tiền 
 - Lỗi hiển thị còn khá nhiều ahihi =)) kệ nó biết sao giờ
-- Demo tại đây: (http://sotaychemgio.com/ "http://codedem.com/all/mocbinh")
+- Demo tại đây: [http://codedem.com/all/mocbinh](http://sotaychemgio.com/)
 - Ahihi đồ ngốk 
 
 <a name="itshop"></a>
