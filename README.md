@@ -30,7 +30,7 @@ Các bạn có thể clone về coi thử
 
 <a name="mocbinh"></a>
 ## 4. Cafe Mộc Bình
-- Một project dang dở, đang làm giữa chừng thì đi theo tiếng gọi của Tổ quốc (đi lính)
+- Một project dang dở, đang làm giữa chừng thì đi theo tiếng gọi của lòng yêu nước
 - Có nhiều lưu luyến, cả dev lẫn khách hàng =)) cũng may là vẫn có tiền 
 - Lỗi hiển thị còn khá nhiều ahihi =)) kệ nó biết sao giờ
 - Demo tại đây: [http://codedem.com/all/mocbinh](http://sotaychemgio.com/)
@@ -53,3 +53,4 @@ Các bạn có thể clone về coi thử
 Mình sẽ cố gắng đưa thêm mấy project tào lao hồi xưa nữa 
 - Chat, Play Caro realtime on web (Java)
 - Web nhạc (Java)
+- Forum giao diện Facebook (ASP.NET)
