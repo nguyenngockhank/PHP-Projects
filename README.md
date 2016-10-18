@@ -4,11 +4,12 @@ Các bạn có thể clone về coi thử
 
 ###Danh sách Projects
 - [1. Cửa hàng Fresh Sushi](#freshsushi)
-- [1. EngineerXYZ](#engineerxyz)
-- [2. Hải Sản F100](#f100)
-- [3. Cafe Mộc Bình](#mocbinh)
-- [5. IT Shop 24h](#itshop)
-- [6. Tuổi trâu](#tuoitrau)
+- [2. EngineerXYZ](#engineerxyz)
+- [3. Hải Sản F100](#f100)
+- [4. Cafe Mộc Bình](#mocbinh)
+- [5. Quiz](#quiz)
+- [6. IT Shop 24h](#itshop)
+- [7. Tuổi trâu](#tuoitrau)
 - [Khác](#khac)
 
 <a name="freshsushi"></a>
@@ -36,14 +37,20 @@ Các bạn có thể clone về coi thử
 - Demo tại đây: [http://codedem.com/all/mocbinh](http://sotaychemgio.com/)
 - Ahihi đồ ngốk 
 
+<a name="quiz"></a>
+## 5. Quiz
+- Web này là 1 cái đồ án của 1 môn nào đó, hiện ký ức chưa kịp tràn về nên chưa nhớ
+- Cùng với sự tò mò, tăng động của tui về cái framework Codeigniter nên tui đã dựng ra 1 hiện trường giống vậy (Cách route giống nhau)
+- Demo tại đây: tự cài đặt đi!
+
 <a name="itshop"></a>
-## 5. IT Shop 24h
+## 6. IT Shop 24h
 - Web này là web đầu tiên tui vừa tự học Codeigniter, Bootstrap và làm dùm thèng anh cái web này 
 - Nhìn cũng được ... nhưng éo ra gì =)) 
 - Demo tại đây: http://codedem.com/all/it24h/
 
 <a name="tuoitrau"></a>
-## 6. Tuổi trâu
+## 7. Tuổi trâu
 - Đây là Website đầu tiên của tui tại Việt Nam =)) code như ma lem, cũng may là chạy được =))
 - Nó đang được sống tại đây http://tuoitrau.is-best.net
 - Không bình luận bậy bạ =)) tôi không muốn đóng cửa website này =)) 

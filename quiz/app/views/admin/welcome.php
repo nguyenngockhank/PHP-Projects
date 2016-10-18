@@ -1,0 +1,1 @@
+<div class="text-center">	<h1> Chào mừng ADMIN yêu dấu trở lại </h1>    <img src="<?= WEB_DOMAIN ?>img/adminbanner.jpg" alt="" /></div>
